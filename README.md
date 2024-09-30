@@ -1,6 +1,6 @@
 # **Netflora**
 
-**Read this in other languages**: [Português](README.md).
+**Read this in other languages**: [Português](README.pt.md).
 
 <a href="https://colab.research.google.com/drive/16nydPteUlpXo1tcIC0DWrQr05Z3m-npU?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 
