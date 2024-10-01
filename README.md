@@ -2,7 +2,7 @@
 
 **Read this in other languages**: [Português](README.pt.md).
 
-<a href="https://colab.research.google.com/drive/16nydPteUlpXo1tcIC0DWrQr05Z3m-npU?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+<a href="https://colab.research.google.com/drive/1GVf8j02sGvZm_T7YhynKifbS078k-2zG"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 
 <p align="justify">The Netflora Project involves the application of geotechnologies in forest automation and carbon stock mapping in native forest areas in Western Amazonia. It is an initiative developed by Embrapa Acre with sponsorship from the JBS Fund for the Amazon.
 
