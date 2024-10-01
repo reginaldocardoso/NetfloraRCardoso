@@ -1,6 +1,6 @@
 # **Netflora**
 
-<a href="https://colab.research.google.com/gist/karasinski-mauro/aa12600b2edc9431adc2191be834c354/netflora.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+<a href="https://colab.research.google.com/drive/1GVf8j02sGvZm_T7YhynKifbS078k-2zG"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 
 <p align="justify">O Projeto Netflora envolve a aplicação de geotecnologias na automação florestal e no mapeamento dos estoques de carbono em áreas de floresta nativa na Amazônia Ocidental, é uma iniciativa desenvolvida pela Embrapa Acre com o apoio do Fundo JBS pela Amazônia.
 
